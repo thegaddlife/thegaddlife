@@ -13,7 +13,7 @@ name: Brett Gadd
 role: Full Stack Developer & Tech Enthusiast
 location: Sacramento, CA
 languages: [TypeScript, React, C#]
-interests: [Azure, DevOps, Agentic Coding]
+interests: [Azure, DevOps, Agentic Coding, Shopify]
 currently_learning: Claude Code
 fun_fact: I debug with console.log() and I'm not ashamed! 🐛
 ```
@@ -53,6 +53,10 @@ fun_fact: I debug with console.log() and I'm not ashamed! 🐛
 
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+#### E-commerce
+
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 
 </div>
 
